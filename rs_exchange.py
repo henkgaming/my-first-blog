@@ -5,7 +5,7 @@ from django.conf import settings
 
 from urllib2 import urlopen
 import ast
-import json
+import simplejson
 import math
 
 
